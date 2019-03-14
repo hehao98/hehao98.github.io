@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction to Computer Systems (TA)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/
+venue: "Peking University, School of Electronic Engineering and Computer Science"
+date: 2018-09-01
 location: "City, Country"
 ---
 
