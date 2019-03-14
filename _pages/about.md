@@ -8,4 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
 
+Education
+======
+* B.S. in Computer Science, Peking University, 2020
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Teaching
+======
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
