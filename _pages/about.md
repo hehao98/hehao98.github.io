@@ -10,18 +10,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Computer Science, Peking University, 2020
+## Education
+* B.S. in Computer Science, Peking University, 2016-2020
 
-Publications
-======
+## Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>

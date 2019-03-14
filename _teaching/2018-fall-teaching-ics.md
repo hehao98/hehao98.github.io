@@ -8,13 +8,12 @@ date: 2018-09-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Introducton to Computer Systems is an undergraduate course at Peking University. This course originates from the famous CMU 15-213 course. It includes a wide range of selected topics from system programming, computer organization, operating systems and networks. Up to 400 perspective students in computer science will take this course each year.
 
-Heading 1
-======
+Tasks and responsibilities of a TA in this course include:
 
-Heading 2
-======
+* Holding a seminar of 14 students every week for reviewing in-class contents, discussing assignments and labs, and introducing extended topics in computer systems.
 
-Heading 3
-======
+* Grading and providing feedbacks for assignments and lab hand-ins.
+
+* Make up exam questions and organizing exams.
