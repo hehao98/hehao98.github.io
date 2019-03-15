@@ -8,6 +8,8 @@ tags:
   - Algorithm
 ---
 
+原文首发于https://www.cnblogs.com/hehao98/p/8528206.html，如果公式显示不正常请参考原网页。
+
 “Mathematical Analysis of Algorithms”是著名计算机界大神Knuth在1971年发表的论文。以前只是听说Knuth非常神，看了这篇论文才体会到Knuth到底有多神…Orz
 
 此外，特别感谢 @solaaaaa 聚聚，没有他的指导我可能根本看不懂这篇论文…...
