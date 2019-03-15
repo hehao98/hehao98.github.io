@@ -57,7 +57,7 @@ An important thing to notice is that a function MUST be removed from the event v
 
 Suppose we have a boss in game that we can slaughter it to win the level. When the boss died three class need to response to it. The player should cheer, the UI should display message and the game should end a few seconds later. Then we can arrange our code as follows:
 
-``` C#
+```c#
 public class GameManager : MonoBehaviour {
 	// Manage Events
 	public delegate void BossSlaughteredAction();
@@ -82,7 +82,7 @@ public class GameManager : MonoBehaviour {
 }
 ```
 
-```C#
+```c#
 public class BeerAttributes : MonoBehaviour {
 	[SerializeField] float health = 100.0f;
 	void TakeDamage(float amount) {
@@ -96,7 +96,7 @@ public class BeerAttributes : MonoBehaviour {
 }
 ```
 
-``` c#
+```c#
 public class WolfEventHandler : MonoBehaviour {
 	void OnEnable() {
 		GameManager.bossSlaugheredAction += HandleBossSlaughtered;
