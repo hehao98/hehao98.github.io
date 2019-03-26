@@ -10,7 +10,7 @@ tags:
 
 RISC-V是源自Berkeley的开源体系结构和指令集标准。这个模拟器实现的是RISC-V Specification 2.2中所规定RV64I指令集，基于标准的五阶段流水线，并且实现了分支预测模块和虚拟内存模拟。实现一个完整的CPU模拟器可以很好地锻炼系统编程能力，并且加深对体系结构有关知识的理解。在开始实现前，应当阅读并深入理解Computer Systems: A Programmer's Perspective中的第四章，或者Computer Organizaton and Design: Hardware/Software Interface中的有关章节。
 
-本模拟器的代码在GitHub上：https://github.com/hehao98/RISCV-Simulator
+本模拟器的代码在GitHub上：[https://github.com/hehao98/RISCV-Simulator](https://github.com/hehao98/RISCV-Simulator)
 
 ## 一、开发环境
 
