@@ -15,13 +15,6 @@ redirect_from:
 ## Education
 * B.S. in Computer Science, Peking University, 2016-2020(expected)
 
-## Skills
-* Programming Languages
-  *  Familiar: C
-  *  Intermediate: Python, C++, C#, Java, Javascript
-
-* Language: Chinese (Native), English (Fluent), Japanese (Intermediate)
-
 ## Awards
 * Award for Academic Excellence, Peking University, 2017-2018
 
@@ -31,8 +24,15 @@ redirect_from:
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-## Teaching
+## Teaching Experience
 
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+## Skills
+* Programming Languages
+  *  Familiar: C
+  *  Intermediate: Python, C++, C#, Java, Javascript
+
+* Language: Chinese(Native), English(Fluent), Japanese(Intermediate)
