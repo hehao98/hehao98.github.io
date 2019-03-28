@@ -17,7 +17,6 @@ redirect_from:
 
 ## Skills
 * Programming Languages
-
   *  Familiar: C
   *  Intermediate: Python, C++, C#, Java, Javascript
 
