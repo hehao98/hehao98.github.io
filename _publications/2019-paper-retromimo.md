@@ -6,7 +6,7 @@ excerpt: 'We propose to design retroreflective MIMO channel based on polarizatio
 date: 2019-01-01
 venue: 'Proceedings of the 20th International Workshop on Mobile Computing Systems and Applications'
 paperurl: 'http://hehao98.github.io/files/2019-retromimo.pdf'
-citation: 'Wu, Yue, et al. "Poster: Retroreflective MIMO Communication." Proceedings of the 20th International Workshop on Mobile Computing Systems and Applications. ACM, 2019.'
+citation: 'Yue Wu, Kenuo Xu, Hao He, Zihang Wu and Chenren Xu. "Poster: Retroreflective MIMO Communication." Proceedings of the 20th International Workshop on Mobile Computing Systems and Applications. ACM, 2019.'
 ---
 
 ## Abstract

@@ -14,6 +14,7 @@ redirect_from:
 
 ## Education
 * B.S. in Computer Science, Peking University, 2016-2020(expected)
+* PhD Candidate in Computer Software and Theory, Peking University, from 2020(expected)
 
 ## Awards
 * Award for Academic Excellence, Peking University, 2017-2018
@@ -31,6 +32,7 @@ redirect_from:
   {% endfor %}</ul>
   
 ## Skills
+
 * Programming Languages
   *  Familiar: C
   *  Intermediate: Python, C++, C#, Java, Javascript
