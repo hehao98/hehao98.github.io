@@ -14,14 +14,14 @@ redirect_from:
 
 ## Education
 * B.S. in Computer Science, Peking University, 2016-2020(expected)
-* PhD Candidate in Computer Software and Theory, Peking University, from 2020(expected)
+* PhD Candidate in Computer Software and Theory, Peking University, from 2020(expected). Supervisor: [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/)
 
 ## Awards
 * Award for Academic Excellence, Peking University, 2017-2018
 
 ## Publications
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 

@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Computer Systems, Fall 2018 (as TA)"
+title: "Introduction to Computer Systems, Teaching Assistant, Fall 2018"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/
