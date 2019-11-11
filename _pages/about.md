@@ -31,6 +31,12 @@ I love to make something cool by programming. I'm also a huge game fanatic. I fr
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+## Projects
+
+<ul>{% for post in site.portfolio %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 ## Teaching Experience
 
   <ul>{% for post in site.teaching %}
@@ -44,5 +50,3 @@ I love to make something cool by programming. I'm also a huge game fanatic. I fr
   *  Intermediate: Python, C++, C#, Java, Javascript
 
 * Language: Chinese(Native), English(Fluent), Japanese(Intermediate)
-
-[https://github.com/hehao98]: 
