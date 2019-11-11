@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to my personal website! My name is Hao He(何昊), currently an undergraduate student in Computer Science at Peking University. I'm planning to pursue a PhD degree in Computer Software and Theory in Peking University since September 2020. For my detailed information please see below. For my projects you can refer to my [GitHub][https://github.com/hehao98] or check them at the projects panel of this website!
+Welcome to my personal website! My name is Hao He(何昊), currently an undergraduate student in Computer Science at Peking University. I'm planning to pursue a PhD degree in Computer Software and Theory in Peking University since September 2020. For my detailed information please see below. For my projects you can refer to my [GitHub](https://github.com/hehao98) or check them at the projects panel of this website!
 
-I love to make something cool by programming. I'm also a huge game fanatic. I frequently try different kind of games, enjoy studying game mechanics, and from time to time I may get obsessed with and fascinated by one single game (The most recent one is Dark Soul III, praise the sun!). Sometimes I also spend my leisure time making games. I'm not skilled enough to make an amazing one though!
+I love to make something cool by programming. I'm also a huge game fanatic. I frequently try different kind of games, enjoy studying game mechanics, and from time to time I may get obsessed with and fascinated by one single game (the most recent one is Dark Souls III, praise the sun!). Sometimes I also spend my leisure time making games. I'm not skilled enough to make an amazing one though!
 
 ## Education
 
@@ -21,6 +21,7 @@ I love to make something cool by programming. I'm also a huge game fanatic. I fr
 
 ## Awards
 
+* Peking University Scholarship Level 3, 2018-2019
 * Award for Academic Excellence, Peking University, 2018-2019
 * Award for Academic Excellence, Peking University, 2017-2018
 
