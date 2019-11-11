@@ -14,7 +14,7 @@ Proceedings of the 27th ACM Joint European Software Engineering Conference and S
 
 Source code comments are important for any software, but the basic patterns of writing comments across domains and programming languages remain unclear. In this paper, we take a first step toward understanding differences in commenting practices by analyzing the comment density of 150 projects in 5 different programming languages. We have found that there are noticeable differences in comment density, which may be related to the programming language used in the project and the purpose of the project.
 
-[Download paper here](http://hehao98.github.io/files/2019-comment.pdf)
+[Download Paper Here](http://hehao98.github.io/files/2019-comment.pdf)
 
 [Source Code Repository](https://github.com/hehao98/CommentAnalysis)
 
