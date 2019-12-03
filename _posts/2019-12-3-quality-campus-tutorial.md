@@ -1,7 +1,7 @@
 ---
 title: '《品质校园模拟器》具体游戏玩法说明'
 date: 2019-04-10
-permalink: /posts/2019/04/xv6-5/
+permalink: /posts/2019/12/quality-campus-tutorial/
 tags:
   - Chinese
   - Game
