@@ -10,4 +10,8 @@ collection: portfolio
 
 [GitHub Mirror](https://github.com/hehao98/QualityCampusTheGame)
 
-
+![screenshot]({{ site.url }}/assets/quality-campus-sim/screenshot1.gif)
+![screenshot]({{ site.url }}/assets/quality-campus-sim/screenshot2.gif)
+![screenshot]({{ site.url }}/assets/quality-campus-sim/screenshot3.gif)
+![screenshot]({{ site.url }}/assets/quality-campus-sim/screenshot4.gif)
+![screenshot]({{ site.url }}/assets/quality-campus-sim/screenshot5.gif)
