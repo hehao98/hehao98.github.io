@@ -1,6 +1,6 @@
 ---
 title: "Water Rendering"
-excerpt: "Implementation of water rendering techniques <br/><img src='/assets/ocean-pic/ocean9.gif'>"
+excerpt: "Implementation of Water Rendering Techniques"
 collection: portfolio
 ---
 
