@@ -1,6 +1,6 @@
 ---
 title: "ShootGame"
-excerpt: "Shooter game implemented in Java"
+excerpt: "A Minimal 2D Shooter Game Implemented in Java"
 collection: portfolio
 ---
 

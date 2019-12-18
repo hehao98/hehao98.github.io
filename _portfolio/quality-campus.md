@@ -1,6 +1,6 @@
 ---
 title: "Quality Campus Simulator!（品质校园模拟器）"
-excerpt: "Build your own world top university with a quality campus!"
+excerpt: "Build Your Own World Top University with a Quality Campus!"
 collection: portfolio
 ---
 
