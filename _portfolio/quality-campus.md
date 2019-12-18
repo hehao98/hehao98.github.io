@@ -1,6 +1,6 @@
 ---
 title: "Quality Campus Simulator!"
-excerpt: "Build your own world top university with a quality campus! <br/><img src='/images/500x300.png'>"
+excerpt: "Build your own world top university with a quality campus! <br/><img src='/assets/quality-campus-sim/screenshot1.gif'>"
 collection: portfolio
 ---
 
