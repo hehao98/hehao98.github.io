@@ -46,8 +46,8 @@ I love to make something cool by programming. I'm also a huge game fanatic. I fr
 ## Skills
 
 * Programming Languages
-  *  C, Python, C++, C#, Java, Javascript
+  *  C, Python, C++, C#, Java, JavaScript
 * Language
   * Chinese (Native) 
-  * English (Fluent) [TOFEL Transript](https://hehao98.github.io/files/托福成绩单.pdf)
+  * English (Fluent), TOFEL 106/120 [Transript](https://hehao98.github.io/files/托福成绩单.pdf)
   * Japanese (Intermediate)

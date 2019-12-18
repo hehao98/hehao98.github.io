@@ -10,14 +10,14 @@ This project is based on OpenGL and C++. The scene consists of one skybox, and a
 
 Here are some of my results. The source code is hosted on [GitHub](https://github.com/hehao98/WaterRendering)
 
-![Lighting]({{ site.url }}/assets/ocean.gif)
-![Lighting]({{ site.url }}/assets/ocean2.gif)
-![Lighting]({{ site.url }}/assets/ocean3.gif)
-![Lighting]({{ site.url }}/assets/ocean4.gif)
-![Lighting]({{ site.url }}/assets/ocean5.gif)
-![Lighting]({{ site.url }}/assets/ocean6.gif)
-![Lighting]({{ site.url }}/assets/ocean7.gif)
-![Lighting]({{ site.url }}/assets/ocean8.gif)
-![Lighting]({{ site.url }}/assets/ocean9.gif)
+![Lighting]({{ site.url }}/assets/ocean-pic/ocean.gif)
+![Lighting]({{ site.url }}/assets/ocean-pic/ocean2.gif)
+![Lighting]({{ site.url }}/assets/ocean-pic/ocean3.gif)
+![Lighting]({{ site.url }}/assets/ocean-pic/ocean4.gif)
+![Lighting]({{ site.url }}/assets/ocean-pic/ocean5.gif)
+![Lighting]({{ site.url }}/assets/ocean-pic/ocean6.gif)
+![Lighting]({{ site.url }}/assets/ocean-pic/ocean7.gif)
+![Lighting]({{ site.url }}/assets/ocean-pic/ocean8.gif)
+![Lighting]({{ site.url }}/assets/ocean-pic/ocean9.gif)
 
 
