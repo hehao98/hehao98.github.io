@@ -6,7 +6,7 @@ excerpt: 'While code comments are valuable for software development, code often 
 date: 2019-07-01
 venue: 'Under Review'
 paperurl: 'Not Available'
-citation: 'Not Availble'
+citation: 'Chao Wang, Hao He, Uma Paroma, Darko Marinov, and Minghui Zhou. An Extensive Study of Independent Comment Changes in Java Projects. Under Review.'
 ---
 
 ## Abstract
