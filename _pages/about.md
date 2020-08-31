@@ -18,7 +18,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 ## Education
 
-* B.S. in Computer Science, Peking University, 2016-2020 [Transcript (In Chinese)](https://hehao98.github.io/files/中文成绩单.pdf)
+* B.S. in Computer Science, Peking University, 2016-2020, GPA 3.70/4.0 (Top 20%) [Transcript (In Chinese)](https://hehao98.github.io/files/中文成绩单.pdf)
 * PhD Candidate in Computer Software and Theory, Peking University, 2020-2025 (expected). Supervisor: [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/)
 
 ## Awards and Honors
