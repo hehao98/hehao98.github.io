@@ -2,7 +2,7 @@
 title: "Introduction to Computation (C), Teaching Assistant, Fall 2020"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/
+permalink: /teaching/intro-comp
 venue: "Peking University, School of Electronic Engineering and Computer Science"
 date: 2020-09-01
 location: "Peking, China"

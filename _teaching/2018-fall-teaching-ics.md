@@ -2,7 +2,7 @@
 title: "Introduction to Computer Systems, Teaching Assistant, Fall 2018"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/
+permalink: /teaching/ics
 venue: "Peking University, School of Electronic Engineering and Computer Science"
 date: 2018-09-01
 location: "Peking, China"
