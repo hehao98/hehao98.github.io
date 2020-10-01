@@ -35,7 +35,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 ## Working Experience
 
-* September 2020 - December 2021 (expected), Software Engineer Intern, Software Analysis Lab, Huawei.
+* Software Analysis Lab at Huawei, Software Engineer Intern (Cloud Computing), September 2020 - December 2021 (expected).
 
 ## Teaching Experience
 
