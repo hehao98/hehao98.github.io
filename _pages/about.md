@@ -34,7 +34,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
   {% endfor %}</ul>
 ## Working Experience
 
-* Huawei, Software Development Environment Lab, Research Intern, from September 2020
+* September 2020 - December 2021 (expected), Software Engineer Intern, Software Analysis Lab, Huawei.
 
 ## Projects
 
