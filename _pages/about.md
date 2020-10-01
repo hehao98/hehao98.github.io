@@ -37,12 +37,6 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 * September 2020 - December 2021 (expected), Software Engineer Intern, Software Analysis Lab, Huawei.
 
-## Projects
-
-<ul>{% for post in site.portfolio %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 ## Teaching Experience
 
   <ul>{% for post in site.teaching reversed %}
@@ -63,4 +57,12 @@ For my detailed information please see below. You can also refer to my [GitHub](
   * Frontend: HTML, CSS, Vue.js, Element UI
   * Backend: Spring Boot, MongoDB, MySQL
   * Game Development: Unity, Cocos Creator, OpenGL
+
+## Some Course Projects
+
+<ul>{% for post in site.portfolio %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+
 
