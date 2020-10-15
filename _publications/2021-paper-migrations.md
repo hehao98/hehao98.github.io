@@ -8,7 +8,7 @@ In this paper, we present a novel approach that utilizes multiple metrics to ran
 date: 2020-10-22
 venue: 'Under Review'
 paperurl: 'Not Available'
-citation: '<b>Hao He</b>, Yulin Xu, Yifei Xu, Yixiao Ma, Guangtai Liang and Minghui Zhou. A Multi-Metric Ranking Approach for Library Migration Recommendations. Under Review.'
+citation: '<b>Hao He</b>, Yulin Xu, Yixiao Ma, Yifei Xu, Guangtai Liang and Minghui Zhou. A Multi-Metric Ranking Approach for Library Migration Recommendations. Under Review.'
 ---
 
 ## Abstract
