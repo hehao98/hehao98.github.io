@@ -34,16 +34,16 @@ For my detailed information please see below. You can also refer to my [GitHub](
 ## Research Projects
 
 <ul>{% for post in site.portfolio %}
-  {% if post.header.project_type == "research_project" %}
+  {% if post.project_type == "research_project" %}
     {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}</ul>
 
 ## Teaching Experience
 
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.teaching reversed %}
+   {% include archive-single-cv.html %}
+ {% endfor %}</ul>
 
 ## Awards and Honors
 
@@ -60,15 +60,16 @@ For my detailed information please see below. You can also refer to my [GitHub](
 * Programming Languages
   *  C, Python, C++, C#, Java, JavaScript
 * Skills for 
+  * Program Analysis and Mining Software Repositories
   * Data Analysis: Numpy, Pandas, Matplotlib, Seaborn
-  * Frontend: HTML, CSS, Vue.js, Element UI
-  * Backend: Spring Boot, MongoDB, MySQL
+  * Frontend: HTML, CSS, Vue.js, Bootstrap, Element UI
+  * Backend: Spring Boot, MongoDB, MySQL, Spark, Hadoop, MapReduce
   * Game Development: Unity, Cocos Creator, OpenGL
 
 ## Some Course Projects
 
 <ul>{% for post in site.portfolio %}
-  {% if post.header.project_type == "course_project" %}
+  {% if post.project_type == "course_project" %}
     {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}</ul>
