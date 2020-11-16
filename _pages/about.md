@@ -21,12 +21,6 @@ For my detailed information please see below. You can also refer to my [GitHub](
 * B.S. in Computer Science, Peking University, 2016-2020, GPA 3.70/4.0 (Top 20%)
 * PhD Candidate in Computer Software and Theory, Peking University, 2020-2025 (expected). Supervisor: [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/)
 
-## Awards and Honors
-
-* The Third Prize of Peking University Scholarship, 2018-2019
-* Award for Academic Excellence, Peking University, 2018-2019
-* Award for Academic Excellence, Peking University, 2017-2018
-
 ## Publications
 
   <ul>{% for post in site.publications reversed %}
@@ -37,12 +31,25 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 * Software Analysis Lab at Huawei, Software Engineer Intern (Cloud Computing), September 2020 - December 2021 (expected).
 
+## Research Projects
+
+<ul>{% for post in site.portfolio %}
+  {% if post.header.project_type == "research_project" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}</ul>
+
 ## Teaching Experience
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+## Awards and Honors
+
+* The Third Prize of Peking University Scholarship, 2018-2019
+* Award for Academic Excellence, Peking University, 2018-2019
+* Award for Academic Excellence, Peking University, 2017-2018
 
 ## Skills
 

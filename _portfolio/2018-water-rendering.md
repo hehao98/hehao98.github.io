@@ -2,7 +2,7 @@
 title: "Water Rendering"
 excerpt: "Implementation of Water Rendering Techniques"
 collection: portfolio
-project_type: course_project
+project_type: "course_project"
 year: 2018
 ---
 

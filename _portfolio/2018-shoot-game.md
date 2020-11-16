@@ -2,7 +2,7 @@
 title: "ShootGame"
 excerpt: "A Minimal 2D Shooter Game Implemented in Java"
 collection: portfolio
-project_type: course_project
+project_type: "course_project"
 year: 2018
 ---
 

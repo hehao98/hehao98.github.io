@@ -2,7 +2,7 @@
 title: "Quality Campus Simulator!（品质校园模拟器）"
 excerpt: "Build Your Own World Top University with a Quality Campus!"
 collection: portfolio
-project_type: course_project
+project_type: "course_project"
 year: 2019
 ---
 

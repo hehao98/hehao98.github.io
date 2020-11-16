@@ -2,7 +2,7 @@
 title: "RISC-V Simulator"
 excerpt: "A Simple RISC-V CPU Simulator with 5 Stage Pipeline, Branch Prediction and Cache Simulation"
 collection: portfolio
-project_type: course_project
+project_type: "course_project"
 year: 2019
 ---
 
