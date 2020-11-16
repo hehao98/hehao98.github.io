@@ -33,7 +33,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 ## Research Projects
 
-<ul>{% for post in site.portfolio %}
+<ul>{% for post in site.portfolio reversed %}
   {% if post.project_type == "research_project" %}
     {% include archive-single-cv.html %}
   {% endif %}
@@ -69,7 +69,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
 ## Some Course Projects
 
 <ul>{% for post in site.portfolio %}
-  {% if post.project_type == "course_project" %}
+  {% if post.project_type == "course_project" reversed %}
     {% include archive-single-cv.html %}
   {% endif %}
 {% endfor %}</ul>
