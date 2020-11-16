@@ -61,7 +61,9 @@ For my detailed information please see below. You can also refer to my [GitHub](
 ## Some Course Projects
 
 <ul>{% for post in site.portfolio %}
-  {% include archive-single-cv.html %}
+  {% if post.project_type == course_project %}
+    {% include archive-single-cv.html %}
+  {% endif %}
 {% endfor %}</ul>
 
 
