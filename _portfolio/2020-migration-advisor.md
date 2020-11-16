@@ -1,10 +1,10 @@
 ---
-title: "Migration Advisor"
-header.teaser: "images/500x300.png"
-excerpt: "Migration Advisor"
+title: "Intelligent and Secure Library Migration Recommendation"
+teaser: "images/500x300.png"
+excerpt: "Library migration is a common development acticity during software evolution. To support this activity, we design a multi-metric ranking algorithm to mine library migrations from large-scale open-source data. We further develop MigrationAdvisor, a demo tool to recommend library migrations. The backend data <b>have been deployed</b> in an internal tool at Huawei."
 collection: portfolio
 project_type: "research_project"
 year: 2020
 ---
 
-Migration Advisor
+Library migration is a common development acticity during software evolution. To support this activity, we design a multi-metric ranking algorithm to mine library migrations from large-scale open-source data. We further develop MigrationAdvisor, a demo tool to recommend library migrations. The backend data <b>have been deployed</b> in an internal tool at Huawei.
