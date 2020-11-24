@@ -23,6 +23,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 ## Awards and Honors
 
+* 2020 ChinaSoft Software Prototype Contest (Free Topic Track), Thrid Prize
 * The Third Prize of Peking University Scholarship, 2018-2019
 * Award for Academic Excellence, Peking University, 2018-2019
 * Award for Academic Excellence, Peking University, 2017-2018
