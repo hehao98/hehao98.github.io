@@ -2,6 +2,8 @@
 title: "RISC-V Simulator"
 excerpt: "A Simple RISC-V CPU Simulator with 5 Stage Pipeline, Branch Prediction and Cache Simulation"
 collection: portfolio
+project_type: "course_project"
+year: 2019
 ---
 
 It is a simple RISC-V Emulator suppprting user mode RV64I instruction set, from PKU Computer Architecture Labs, Spring 2019. I made my project open source in the hope that others can learn from my code about how to make a CPU Emulator and get a deeper understanding in computer architecture.

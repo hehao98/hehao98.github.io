@@ -2,6 +2,8 @@
 title: "Water Rendering"
 excerpt: "Implementation of Water Rendering Techniques"
 collection: portfolio
+project_type: "course_project"
+year: 2018
 ---
 
 I started this personal project both out of my personal interest on computer graphics and practice of OpenGL and C++ programming. I choose to implement water rendering becauce I love water! Personally I enjoy swimming and I've found that the color, wave and lighting of water is beautiful. That's why I choose to implement techniques for rendering water.

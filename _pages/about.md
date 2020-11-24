@@ -21,13 +21,6 @@ For my detailed information please see below. You can also refer to my [GitHub](
 * B.S. in Computer Science, Peking University, 2016-2020, GPA 3.70/4.0 (Top 20%)
 * PhD Candidate in Computer Software and Theory, Peking University, 2020-2025 (expected). Supervisor: [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/)
 
-## Awards and Honors
-
-* 2020 ChinaSoft Software Prototype Contest (Free Topic Track), Thrid Prize
-* The Third Prize of Peking University Scholarship, 2018-2019
-* Award for Academic Excellence, Peking University, 2018-2019
-* Award for Academic Excellence, Peking University, 2017-2018
-
 ## Publications
 
   <ul>{% for post in site.publications reversed %}
@@ -38,12 +31,26 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 * Software Analysis Lab at Huawei, Software Engineer Intern (Cloud Computing), September 2020 - December 2021 (expected).
 
+## Research Projects
+
+<ul>{% for post in site.portfolio reversed %}
+  {% if post.project_type == "research_project" %}
+    {% include archive-single-cv.html %}
+  {% endif %}
+{% endfor %}</ul>
+
 ## Teaching Experience
 
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<ul>{% for post in site.teaching reversed %}
+   {% include archive-single-cv.html %}
+ {% endfor %}</ul>
 
+## Awards and Honors
+
+* 2020 ChinaSoft Software Prototype Contest (Free Topic Track), Thrid Prize
+* The Third Prize of Peking University Scholarship, 2018-2019
+* Award for Academic Excellence, Peking University, 2018-2019
+* Award for Academic Excellence, Peking University, 2017-2018
 
 ## Skills
 
@@ -54,15 +61,18 @@ For my detailed information please see below. You can also refer to my [GitHub](
 * Programming Languages
   *  C, Python, C++, C#, Java, JavaScript
 * Skills for 
+  * Program Analysis and Mining Software Repositories
   * Data Analysis: Numpy, Pandas, Matplotlib, Seaborn
-  * Frontend: HTML, CSS, Vue.js, Element UI
-  * Backend: Spring Boot, MongoDB, MySQL
+  * Frontend: HTML, CSS, Vue.js, Bootstrap, Element UI
+  * Backend: Spring Boot, MongoDB, MySQL, Spark, Hadoop, MapReduce
   * Game Development: Unity, Cocos Creator, OpenGL
 
 ## Some Course Projects
 
 <ul>{% for post in site.portfolio %}
-  {% include archive-single-cv.html %}
+  {% if post.project_type == "course_project" reversed %}
+    {% include archive-single-cv.html %}
+  {% endif %}
 {% endfor %}</ul>
 
 
