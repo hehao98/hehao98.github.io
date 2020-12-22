@@ -6,9 +6,9 @@ excerpt: 'The wide adoption of third-party libraries in software projects is ben
 
 In this paper, we present a novel approach that utilizes multiple metrics to rank and therefore recommend library migrations. Given a library to migrate, our approach first generates candidate target libraries from a large corpus of software repositories, and then ranks them by combining the following four metrics to capture different dimensions of evidence from development history: Rule Support, Message Support, Distance Support, and API Support. We evaluate the performance of our approach with 773 migration rules (190 source libraries) that we borrow from previous work and recover from 21,358 Java GitHub projects. The experiments show that our metrics are effective to help identify real migration targets from other libraries, and our approach significantly outperforms existing works, with MRR of 0.8566, top-1 precision of 0.7947, top-10 NDCG of 0.7665, and top-20 recall of 0.8939. To demonstrate the generality of our approach, we manually verify the recommendation results of 480 most popular libraries and confirm 661 new migration rules from 231 libraries with comparable performance.'
 date: 2020-10-22
-venue: 'Under Review'
+venue: '28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021)'
 paperurl: 'https://hehao98.github.io/files/2021-migration.pdf'
-citation: '<b>Hao He</b>, Yulin Xu, Yixiao Ma, Yifei Xu, Guangtai Liang and Minghui Zhou. A Multi-Metric Ranking Approach for Library Migration Recommendations. Under Review.'
+citation: '<b>Hao He</b>, Yulin Xu, Yixiao Ma, Yifei Xu, Guangtai Liang and Minghui Zhou. A Multi-Metric Ranking Approach for Library Migration Recommendations. 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021). Acceptance Rate: 25% (42/165).'
 ---
 
 ## Abstract
