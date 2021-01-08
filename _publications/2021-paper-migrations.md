@@ -8,7 +8,7 @@ In this paper, we present a novel approach that utilizes multiple metrics to ran
 date: 2021-03-07
 venue: 'Proceedings of the 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021)'
 paperurl: 'https://hehao98.github.io/files/2021-migration.pdf'
-citation: '<b>Hao He</b>, Yulin Xu, Yixiao Ma, Yifei Xu, Guangtai Liang and Minghui Zhou. A Multi-Metric Ranking Approach for Library Migration Recommendations. In Proceedings of the 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021). Acceptance Rate: 25% (42/165). <a href="https://hehao98.github.io/files/2021-migration.pdf" target="_blank">PDF</a>'
+citation: '<b>Hao He</b>, Yulin Xu, Yixiao Ma, Yifei Xu, Guangtai Liang and Minghui Zhou. A Multi-Metric Ranking Approach for Library Migration Recommendations. In Proceedings of the 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021). Acceptance Rate: 25% (42/165). <a href="https://hehao98.github.io/files/2021-migration.pdf" target="_blank">PDF</a>.'
 ---
 
 ## Abstract
