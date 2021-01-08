@@ -31,7 +31,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 * **Software Engineer Intern, September 2020 - December 2021 (expected)**
   * Software Analysis Lab, Cloud BU, Huawei Technologies Co., Ltd.
-  * Responsible for developing and deploying Spark™ applications for large-scale mining of internal Java projects, and use the mined data for 3rd-party library risk prediction and migration recommendation.
+  * Responsible for developing Spark™ applications for large-scale mining of internal Java projects, and using the mined data for 3rd-party library risk prediction and migration recommendation.
 
 ## Research Projects
 
