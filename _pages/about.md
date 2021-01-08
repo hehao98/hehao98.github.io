@@ -49,7 +49,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 ## Patents
 
-* Xiao Cheng, Zeyu Wangm, Ruowen Chen, Junjie Yu, <b>Hao He</b>, Guangtai Liang, Minghui Zhou. A Service that Upgrades or Replaces Vulnerable Thrid-Party Libraries Automatically (一个漏洞三方库自动升级替换服务). Huawei Technologies Co., Ltd. 
+* Xiao Cheng, Zeyu Wang, Ruowen Chen, Junjie Yu, <b>Hao He</b>, Guangtai Liang, Minghui Zhou. A Service that Upgrades or Replaces Vulnerable Thrid-Party Libraries Automatically (一个漏洞三方库自动升级替换服务). Huawei Technologies Co., Ltd. 
 
 ## Awards and Honors
 
