@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to my personal website! My name is Hao He (何昊). I'm currently a PhD candidate in Computer Software and Theory at Peking University, supervised by [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/). Before that, I received my Bachelors' Degree on Computer Science in 2020.  My research interest is to address practical problems and interpret interesting phenomenons in the field of software engineering, using whatever methodology that helps, be it quantitative or qualitative. 
+Welcome to my personal website! My name is Hao He (何昊). I'm currently a PhD candidate in Computer Software and Theory at Peking University, supervised by [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/). Before that, I received my Bachelors' Degree on Computer Science at Peking University in 2020.  My research interest is to address practical problems and interpret interesting phenomenons in the field of software engineering, using whatever methodology that helps, be it quantitative or qualitative. 
 
 Besides that, I also love to make something cool by programming. I also enjoy playing games, especially those with complex and in-depth mechanics to study.
 
