@@ -29,7 +29,9 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 ## Working Experience
 
-* Software Analysis Lab at Huawei, Software Engineer Intern (Cloud Computing), September 2020 - December 2021 (expected).
+* **Software Engineer Intern, September 2020 - December 2021 (expected)**
+  * Software Analysis Lab, Cloud BU, Huawei Technologies Co., Ltd.
+  * Responsible for developing and deploying Spark™ applications for large-scale mining of internal Java projects, and use the mined data for 3rd-party library risk prediction and migration recommendation.
 
 ## Research Projects
 
@@ -44,6 +46,10 @@ For my detailed information please see below. You can also refer to my [GitHub](
 <ul>{% for post in site.teaching reversed %}
    {% include archive-single-cv.html %}
  {% endfor %}</ul>
+
+## Patents
+
+* Xiao Cheng, Zeyu Wangm, Ruowen Chen, Junjie Yu, <b>Hao He</b>, Guangtai Liang, Minghui Zhou. A Service that Upgrades or Replaces Vulnerable Thrid-Party Libraries Automatically (一个漏洞三方库自动升级替换服务). Huawei Technologies Co., Ltd. 
 
 ## Awards and Honors
 
