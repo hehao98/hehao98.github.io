@@ -29,7 +29,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 ## Working Experience
 
-* **Software Engineer Intern, September 2020 - December 2021 (expected)**
+* **Sept 2020 - Dec 2021 (expected), Software Engineer Intern**
   * Software Analysis Lab, Cloud BU, Huawei Technologies Co., Ltd.
   * Responsible for developing Spark™ applications for large-scale mining of internal Java projects, and using the mined data for 3rd-party library risk prediction and migration recommendation.
 
