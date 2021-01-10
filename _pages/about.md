@@ -12,6 +12,8 @@ redirect_from:
 
 Welcome to my personal website! My name is Hao He (何昊). I'm currently a PhD candidate in Computer Software and Theory at Peking University, supervised by [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/). Before that, I received my Bachelors' Degree on Computer Science in 2020.  My research interest is to address practical problems and interpret interesting phenomenons in the field of software engineering, using whatever methodology that helps, be it quantitative or qualitative. 
 
+Recently, I'm focusing on the general topic of dependency management in software engineering. More specifically, I want to design novel tools to manage, curate and secure software dependencies during software evolution. I am also participating a side research project in understanding code comment practices.
+
 Besides that, I also love to make something cool by programming. I also enjoy playing games, especially those with complex and in-depth mechanics to study.
 
 For my detailed information please see below. You can also refer to my [GitHub](https://github.com/hehao98) for paper code and other projects.
@@ -30,14 +32,6 @@ For my detailed information please see below. You can also refer to my [GitHub](
 ## Working Experience
 
 * Software Analysis Lab at Huawei, Software Engineer Intern (Cloud Computing), September 2020 - December 2021 (expected).
-
-## Research Projects
-
-<ul>{% for post in site.portfolio reversed %}
-  {% if post.project_type == "research_project" %}
-    {% include archive-single-cv.html %}
-  {% endif %}
-{% endfor %}</ul>
 
 ## Teaching Experience
 

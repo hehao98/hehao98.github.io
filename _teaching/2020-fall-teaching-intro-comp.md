@@ -8,7 +8,9 @@ date: 2020-09-01
 location: "Peking, China"
 ---
 
-Introducton to Computation (C) is an undergraduate course at Peking University. It is an introductory course to programming for non-CS students. 
+Introducton to Computation (C) is an undergraduate course at Peking University. It is an introductory course to programming for students majoring in literal arts (literature, foreign language, history, etc). 
+
+I have made half of the exam questions from this very interesting [final exam](http://wjjc.openjudge.cn/2020jgcfallfinal/).
 
 Tasks and responsibilities of course TA include:
 
