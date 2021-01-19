@@ -10,7 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-Welcome to my personal website! My name is Hao He (何昊). I'm currently a Ph.D. candidate in Computer Software and Theory at Peking University, supervised by [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/). Before that, I received my Bachelors' Degree on Computer Science at Peking University in 2020.  My research interest is to address practical problems and interpret interesting phenomenons in the field of software engineering, using whatever methodology that helps, be it quantitative or qualitative. 
+Welcome to my personal website! My name is Hao He (何昊). I'm currently a Ph.D. candidate in Computer Software and Theory at Peking University, supervised by [Minghui Zhou](http://sei.pku.edu.cn/~zhmh/). Before that, I received my Bachelors' Degree on Computer Science at Peking University in 2020.  My research interest is to address practical problems and interpret interesting phenomenon in the field of software engineering, using whatever methodology that helps, be it quantitative or qualitative. 
+
+Recently, I'm focusing on the general topic of dependency management in software engineering. More specifically, I want to design novel tools to manage, curate and secure software dependencies during software evolution. I have developed an [approach](/publication/2021-recommending-library-migration) for automated mining and recommendation of library migration targets, which have been deployed in a proprietary 3rd-party library management tool at Huawei. I am also participating a side research project in understanding code comment practices.
 
 Besides that, I also love to make something cool by programming. I also enjoy playing games, especially those with complex and in-depth mechanics to study.
 
@@ -32,14 +34,6 @@ For my detailed information please see below. You can also refer to my [GitHub](
 * **Sept 2020 - Dec 2021 (expected), Software Engineer Intern**
   * Software Analysis Lab, Cloud BU, Huawei Technologies Co., Ltd.
   * Responsible for developing Spark™ applications for large-scale mining of internal Java projects, and using the mined data for 3rd-party library risk prediction and migration recommendation.
-
-## Research Projects
-
-<ul>{% for post in site.portfolio reversed %}
-  {% if post.project_type == "research_project" %}
-    {% include archive-single-cv.html %}
-  {% endif %}
-{% endfor %}</ul>
 
 ## Teaching Experience
 
