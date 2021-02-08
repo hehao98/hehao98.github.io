@@ -1,5 +1,5 @@
 ---
-title: "MigrationAdvisor: Recommending LibraryMigrations from Large-Scale Open-Source Data"
+title: "MigrationAdvisor: Recommending Library Migrations from Large-Scale Open-Source Data"
 collection: publications
 permalink: /publication/2021-migration-advisor
 excerpt: 'During software maintenance, developers may need to migrate an already in-use library to another library with similar functionalities. However, it is difficult to make the optimal migration decision with limited information, knowledge, or expertise. In this paper, we present MigrationAdvisor, an evidence-based tool to recommend library migration targets through intelligent analysis upon a large number of GitHub repositories and Java libraries. The migration advisories are provided through a search engine style web service where developers can seek migration suggestions for a specific library. We conduct systematic evaluations on the correctness of results, and evaluate the usefulness of the tool by collecting usage feedback from industry developers. Video: https://youtu.be/4I75W22TqwQ.'
