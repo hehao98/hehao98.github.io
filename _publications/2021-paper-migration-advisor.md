@@ -11,14 +11,4 @@ citation: '<b>Hao He</b>, Yulin Xu, Xiao Cheng, Guangtai Liang and Minghui Zhou.
 
 ## Abstract
 
-{{ header.excerpt }}
-
-{{ excerpt }}
-
-{{ post.excerpt }}
-
 During software maintenance, developers may need to migrate an already in-use library to another library with similar functionalities. However, it is difficult to make the optimal migration decision with limited information, knowledge, or expertise. In this paper, we present MigrationAdvisor, an evidence-based tool to recommend library migration targets through intelligent analysis upon a large number of GitHub repositories and Java libraries. The migration advisories are provided through a search engine style web service where developers can seek migration suggestions for a specific library. We conduct systematic evaluations on the correctness of results, and evaluate the usefulness of the tool by collecting usage feedback from industry developers. Video: https://youtu.be/4I75W22TqwQ.
-
-## Overview
-
-![](https://github.com/hehao98/MigrationHelper/blob/master/paper/fig/ToolDemo.png?raw=true)
