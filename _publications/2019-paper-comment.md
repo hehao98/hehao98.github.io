@@ -6,8 +6,7 @@ excerpt: 'Source code comments are important for any software, but the basic pat
 date: 2019-07-01
 venue: 'Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE ’19)'
 paperurl: 'https://doi.org/10.1145/3338906.3342494'
-citation: '<b>Hao He</b>. Understanding Source Code Comments at Large-Scale. In
-Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE ’19), August 26–30, 2019, Tallinn, Estonia. ACM, New York, NY, USA, 3 pages.'
+citation: '<b>Hao He</b>. Understanding Source Code Comments at Large-Scale. In Proceedings of the 27th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE ’19), August 26–30, 2019, Tallinn, Estonia. ACM, New York, NY, USA, 3 pages.'
 ---
 
 ## Abstract
