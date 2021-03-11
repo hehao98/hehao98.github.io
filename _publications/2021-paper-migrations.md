@@ -6,7 +6,7 @@ excerpt: 'The wide adoption of third-party libraries in software projects is ben
 date: 2021-03-09
 venue: 'Proceedings of the 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021)'
 paperurl: 'https://hehao98.github.io/files/2021-migration.pdf'
-citation: '<b>Hao He</b>, Yulin Xu, Yixiao Ma, Yifei Xu, Guangtai Liang and Minghui Zhou. A Multi-Metric Ranking Approach for Library Migration Recommendations. In Proceedings of the 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021). Acceptance Rate: 25.5% (42/165). <a href="https://hehao98.github.io/files/2021-migration.pdf" target="_blank">PDF</a>. <a href="https://hehao98.github.io/files/2021-migration.pptx" target="_blank">Slides</a>. <a href="https://github.com/hehao98/MigrationHelper/blob/master/PAPER-CHINESE.pdf" target="_blank">中文版</a>.'
+citation: '<b>Hao He</b>, Yulin Xu, Yixiao Ma, Yifei Xu, Guangtai Liang and Minghui Zhou. A Multi-Metric Ranking Approach for Library Migration Recommendations. Proceedings of the 28th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2021). Acceptance Rate: 25.5% (42/165). <a href="https://hehao98.github.io/files/2021-migration.pdf" target="_blank">PDF</a>. <a href="https://hehao98.github.io/files/2021-migration.pptx" target="_blank">Slides</a>. <a href="https://github.com/hehao98/MigrationHelper/blob/master/PAPER-CHINESE.pdf" target="_blank">中文版</a>.'
 ---
 
 ## Abstract

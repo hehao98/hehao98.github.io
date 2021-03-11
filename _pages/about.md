@@ -31,7 +31,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
 
 ## Working Experience
 
-* **Sept 2020 - Dec 2021 (expected), Software Engineer Intern**
+* **Sept 2020 - Jan 2021, Software Engineer Intern**
   * Software Analysis Lab, Cloud BU, Huawei Technologies Co., Ltd.
   * Responsible for developing Spark™ applications for large-scale mining of internal Java projects, and using the mined data for 3rd-party library risk prediction and migration recommendation.
 
@@ -57,7 +57,7 @@ For my detailed information please see below. You can also refer to my [GitHub](
 * Language
   * Chinese (Native) 
   * English (Fluent), TOFEL 106/120, CET-6 661/710
-  * Japanese (Fluent), I want to take JLPT N1 this year but the pandemic stops me QAQ
+  * Japanese (Fluent), JLPT N2 Qualified 180/180 (yes, a full score)
 * Programming Languages
   *  C, Python, C++, C#, Java, JavaScript
 * Skills for 
