@@ -6,7 +6,7 @@ excerpt: 'During software maintenance, developers may need to migrate an already
 date: 2021-05-23
 venue: 'ICSE 2021 Demonstration Track'
 paperurl: 'https://hehao98.github.io/files/2021-migration-advisor.pdf'
-citation: '<b>Hao He</b>, Yulin Xu, Xiao Cheng, Guangtai Liang and Minghui Zhou. MigrationAdvisor: Recommending LibraryMigrations from Large-Scale Open-Source Data. Accepted by ICSE 2021 Demonstration Track. <a href="https://hehao98.github.io/files/2021-migration-advisor.pdf" target="_blank">PDF</a>.'
+citation: '<b>Hao He</b>, Yulin Xu, Xiao Cheng, Guangtai Liang and Minghui Zhou. MigrationAdvisor: Recommending LibraryMigrations from Large-Scale Open-Source Data. Accepted by ICSE 2021 Demonstration Track. Acceptance Rate: 37.1% (23/62). <a href="https://hehao98.github.io/files/2021-migration-advisor.pdf" target="_blank">PDF</a>.'
 ---
 
 ## Abstract
